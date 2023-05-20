@@ -7,3 +7,6 @@
 <br/>
 
 #### 2. 유용한 사이트
+---
+- 마크다운 이모지 사이트
+  + site : <https://www.webfx.com/tools/emoji-cheat-sheet/>
