@@ -16,3 +16,9 @@
 ---
 - 대한민국 최신 행정구역 다운로드 사이트
   + site : <http://www.gisdeveloper.co.kr/?p=2332>
+<br/>
+
+#### 4. 경력관리
+---
+- 소프트웨어기술자 경력관리시스템
+  + site : <https://career.sw.or.kr/join/login.jsp?redirectUrl=%2Fpersonal%2Findex.jsp>
