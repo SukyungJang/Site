@@ -10,6 +10,8 @@
   + site : <https://fullstackdeeplearning.com/>
 - Python 통계 공부 사이트
   + site : <https://ethanweed.github.io/pythonbook/landingpage.html>
+- 공부할 내용 정리 글
+  + site : <https://github.com/Rphabet/I-want-to-study-Data-Science>
 <br/>
 
 #### 2. 유용한 사이트
