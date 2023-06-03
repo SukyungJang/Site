@@ -48,7 +48,13 @@
   + site : <https://cloud.google.com/>
 <br/>
 
-#### 6. 시각화
+#### 6. 툴
 ---
-- Flourish
+- Flourish 시각화 
   + site : <https://flourish.studio/>
+<br/>
+
+#### 7. 블로그 관련 사이트
+---
+- 국내 개발자 블로그 모음
+  + site : <https://limeeyojung.tistory.com/12>
