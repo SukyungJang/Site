@@ -20,6 +20,8 @@
   + site : <https://www.webfx.com/tools/emoji-cheat-sheet/>
 - Simple Icons
   + site : <https://simpleicons.org/?q=colab>
+- 마크다운 뱃지 사이트
+  + site: <https://github.com/Ileriayo/markdown-badges>
 <br/>
 
 #### 3. 데이터 사이트
