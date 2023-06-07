@@ -34,8 +34,14 @@
   + site : <https://data.seoul.go.kr/>
 <br/>
 
-#### 4. 취업
+#### 4. 취업 및 경력
 ---
+- 사람인
+  + site : <https://www.saramin.co.kr/zf_user/>
+- 잡코리아
+  + site : <https://www.jobkorea.co.kr/>
+- 원티드
+  + site : <https://www.wanted.co.kr/jobsfeed>
 - 소프트웨어기술자 경력관리시스템
   + site : <https://career.sw.or.kr/join/login.jsp?redirectUrl=%2Fpersonal%2Findex.jsp>
 - 데이터사이언티스트 질문 모음
