@@ -9,6 +9,7 @@
 |The Full Stack 강의|<https://fullstackdeeplearning.com/>|
 |Python 통계 공부 사이트|<https://ethanweed.github.io/pythonbook/landingpage.html>|
 |공부할 내용 정리 글|<https://github.com/Rphabet/I-want-to-study-Data-Science>|
+|무료 책 / 위키독스|<https://wikidocs.net/>|
 <br/>
 
 #### 2. 유용한 사이트
